@@ -1,0 +1,8 @@
+1.undersampling the majority class
+2.Oversampling minority class
+3.SMOTE - KNN - synthetic samples
+synthetic minority oversmapling techniques
+4. Ensemble
+5. Focal lose
+
+Customer churn , Device Failure , Cancer Patients 
